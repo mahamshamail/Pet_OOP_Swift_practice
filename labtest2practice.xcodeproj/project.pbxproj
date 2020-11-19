@@ -8,6 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		9C8B9A272554C9A50035DCA9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8B9A262554C9A50035DCA9 /* main.swift */; };
+		9C8B9A2E2554FE6B0035DCA9 /* Pet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8B9A2D2554FE6B0035DCA9 /* Pet.swift */; };
+		9C8B9A302554FE8C0035DCA9 /* Dog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8B9A2F2554FE8C0035DCA9 /* Dog.swift */; };
+		9C8B9A322554FE9F0035DCA9 /* Chicken.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8B9A312554FE9F0035DCA9 /* Chicken.swift */; };
+		9C8B9A342554FEAF0035DCA9 /* Fish.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8B9A332554FEAF0035DCA9 /* Fish.swift */; };
+		9C8B9A362555013A0035DCA9 /* Cat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8B9A352555013A0035DCA9 /* Cat.swift */; };
+		9C8B9A382555AD690035DCA9 /* Edible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C8B9A372555AD690035DCA9 /* Edible.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +31,12 @@
 /* Begin PBXFileReference section */
 		9C8B9A232554C9A50035DCA9 /* labtest2practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = labtest2practice; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C8B9A262554C9A50035DCA9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9C8B9A2D2554FE6B0035DCA9 /* Pet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pet.swift; sourceTree = "<group>"; };
+		9C8B9A2F2554FE8C0035DCA9 /* Dog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dog.swift; sourceTree = "<group>"; };
+		9C8B9A312554FE9F0035DCA9 /* Chicken.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chicken.swift; sourceTree = "<group>"; };
+		9C8B9A332554FEAF0035DCA9 /* Fish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fish.swift; sourceTree = "<group>"; };
+		9C8B9A352555013A0035DCA9 /* Cat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat.swift; sourceTree = "<group>"; };
+		9C8B9A372555AD690035DCA9 /* Edible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Edible.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,12 @@
 			isa = PBXGroup;
 			children = (
 				9C8B9A262554C9A50035DCA9 /* main.swift */,
+				9C8B9A2D2554FE6B0035DCA9 /* Pet.swift */,
+				9C8B9A332554FEAF0035DCA9 /* Fish.swift */,
+				9C8B9A2F2554FE8C0035DCA9 /* Dog.swift */,
+				9C8B9A312554FE9F0035DCA9 /* Chicken.swift */,
+				9C8B9A352555013A0035DCA9 /* Cat.swift */,
+				9C8B9A372555AD690035DCA9 /* Edible.swift */,
 			);
 			path = labtest2practice;
 			sourceTree = "<group>";
@@ -120,7 +138,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C8B9A342554FEAF0035DCA9 /* Fish.swift in Sources */,
 				9C8B9A272554C9A50035DCA9 /* main.swift in Sources */,
+				9C8B9A362555013A0035DCA9 /* Cat.swift in Sources */,
+				9C8B9A322554FE9F0035DCA9 /* Chicken.swift in Sources */,
+				9C8B9A2E2554FE6B0035DCA9 /* Pet.swift in Sources */,
+				9C8B9A302554FE8C0035DCA9 /* Dog.swift in Sources */,
+				9C8B9A382555AD690035DCA9 /* Edible.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
